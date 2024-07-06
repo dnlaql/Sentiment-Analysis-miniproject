@@ -1,3 +1,10 @@
+!pip install streamlit
+!pip install pandas
+!pip install matplotlib
+!pip install wordcloud
+!pip install plotly
+!pip install numpy
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
